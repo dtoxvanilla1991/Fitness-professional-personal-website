@@ -1,0 +1,10 @@
+{
+    "packages": [{"id": 1, "title": "Shred all fat in 8 weeks",
+         "thumbnailUrl": "http://localhost:9000/shredPackage.png", "rate": 45, "Difficulty": 4, "coach": { "id": 1, "fullName": "Iurii Avdiievskyi"}},
+         {"id": 2, "title": "Bulk like Hulk within 8 weeks",
+            "thumbnailUrl": "http://localhost:9000/bulkPackage.png", "rate": 49, "Difficulty": 5, "coach": { "id": 1, "fullName": "Iurii Avdiievskyi"}},
+            {"id": 3, "title": "Cut down like a Pro within 8 weeks",
+                "thumbnailUrl": "http://localhost:9000/cutPackage.png", "rate": 59, "Difficulty": 5, "coach": { "id": 1, "fullName": "Iurii Avdiievskyi"}},
+                {"id": 4, "title": "Transform your health and body in 8 weeks",
+                    "thumbnailUrl": "http://localhost:9000/lifestylePackage.png", "rate": 35, "Difficulty": 4, "coach": { "id": 1, "fullName": "Iurii Avdiievskyi"}}]
+}
