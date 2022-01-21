@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## Table of contents
 
 - [General info](#general-info "General information")
